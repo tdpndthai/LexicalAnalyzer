@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.frmLexicalAnlyzer.resources
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+C:\Users\nguye\OneDrive\Documents\GitHub\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
